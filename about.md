@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre mi
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+Víctor M. Rivas Santos es profesor de Informática en la Universidad de Jaén (España) y miembro del grupo de investigación Geneura Team
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vrivas@ujaen.es](mailto:vrivas@ujaen.es)
+Facebook: [facebook/victorrivassantos](https://www.facebook.com/victorrivassantos)
+Twitter: [@vrsantos](https://twitter.com/vrsantos)
