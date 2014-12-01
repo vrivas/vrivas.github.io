@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creo colores para todonotes
+date: {{ site.time | date_to_long_string }}
 ---
 Ya he creado mis colores para los todonotes de [geneura-papers](https://github.com/geneura-papers)
 
